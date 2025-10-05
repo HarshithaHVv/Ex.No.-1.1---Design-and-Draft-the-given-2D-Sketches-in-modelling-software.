@@ -44,5 +44,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ## OUTPUT
 
 
+![ex 1 1 harshitha HV ](https://github.com/user-attachments/assets/92df1121-e44b-42be-a705-04423059e133)
+
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
